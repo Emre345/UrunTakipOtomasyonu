@@ -1,0 +1,93 @@
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lab1pc1\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\kaanuzunproje\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\ürün takip sistemi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\lab1pc1\Desktop\Emre\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marka.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satış_Raporları.resources
+C:\Users\lab1pc1\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marka.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satış_Raporları.resources
+C:\Users\Emre\Desktop\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Marka.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Satış_Raporları.resources
+C:\Users\Emre\Desktop\NESNE TABANLI PROGRAMLAMA\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Emre\1. Dönem Nesne\Emre Ürün Takip\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Emre\Desktop\Emre\1. Dönem Nesne\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\Emre\1. Dönem Nesne\Emre Ürün Takip\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
